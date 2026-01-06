@@ -1,10 +1,10 @@
-# lógica de programação 
+# 📘 Lógica de Programação
 
-repositório com exercícios de lógica de programação.
-curso: lógica de programação com ChatGPT (udemy)
+Repositório com exercícios de lógica de programação.  
+Curso: Lógica de Programação com ChatGPT (Udemy)
 
--conteúdos estudados:
--variáveis
--condicionais (if / else)
--laços de repetição 
--exercícios práticos
+## 📌 Conteúdos estudados
+- Variáveis
+- Condicionais (`if / else`)
+- Laços de repetição
+- Exercícios práticos
