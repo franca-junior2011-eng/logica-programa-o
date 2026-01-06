@@ -1,0 +1,5 @@
+exercício 01 - soma simples 
+
+leia dois números 
+some os dois 
+mostre o resultado
